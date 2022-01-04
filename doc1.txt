@@ -3,3 +3,5 @@ First line - Brayan
 Second line - Heidi 
 
 I want to see something - also Heidi
+
+Quiero verificar cómo se hace el merge de esta rama en la rama principal.  - also Heidi porque Brayan no comenta nada
