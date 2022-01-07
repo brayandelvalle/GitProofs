@@ -2,7 +2,7 @@
 
 import numpy as np
 
-n=31		## Número hasta que vamos a encontrar primos
+n=100		## Número hasta que vamos a encontrar primos
 
 ## Creamos la matriz 
 
@@ -37,4 +37,4 @@ for i in range ( 0 , n-1 , 1):
 	if (N[i][1] is True):
 		print (N[i][0])
 		
-# print (N)
+
